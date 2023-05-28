@@ -1,0 +1,3 @@
+[crate_roots]
+cairo_test_2 = "src"
+tests = "tests"
